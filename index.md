@@ -1,12 +1,26 @@
 ---
-slug: "github-human-rights-law-framework"
-title: "human-rights-law-framework"
-repo: "justin-napolitano/human-rights-law-framework"
-githubUrl: "https://github.com/justin-napolitano/human-rights-law-framework"
-generatedAt: "2025-11-23T09:08:27.204509Z"
-source: "github-auto"
+slug: github-human-rights-law-framework
+title: Human Rights Law Framework Repository with Structured DOCX Document
+repo: justin-napolitano/human-rights-law-framework
+githubUrl: https://github.com/justin-napolitano/human-rights-law-framework
+generatedAt: '2025-11-23T09:08:27.204509Z'
+source: github-auto
+summary: >-
+  Centralized repository hosting a structured DOCX containing a human rights law framework for legal
+  analysis and reference.
+tags:
+  - human-rights
+  - legal-framework
+  - docx
+  - document-management
+  - law-research
+seoPrimaryKeyword: human rights law framework
+seoSecondaryKeywords:
+  - docx document
+  - legal framework
+  - document repository
+seoOptimized: true
 ---
-
 
 # Human Rights Law Framework Repository: Technical Overview and Context
 
