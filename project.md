@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/human-rights-law-framework
 generatedAt: '2025-11-24T21:35:11.490Z'
 source: github-auto
 summary: >-
-  Explore a comprehensive human rights law framework in a Word document,
-  suitable for legal analysis and academic reference.
+  Explore a comprehensive human rights law framework in a Word document, suitable for legal analysis
+  and academic reference.
 tags:
   - human rights
   - legal analysis
@@ -23,8 +23,8 @@ seoSecondaryKeywords:
   - human rights analysis
   - academic reference materials
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: personal
+topicFamilyConfidence: 0.7
 kind: project
 entryLayout: project
 showInProjects: true
@@ -73,3 +73,4 @@ human-rights-law-framework/
 ---
 
 *Note: This repository currently serves as a document repository rather than a software project.*
+
