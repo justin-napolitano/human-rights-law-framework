@@ -1,27 +1,27 @@
 ---
 slug: github-human-rights-law-framework
 id: github-human-rights-law-framework
-title: Human Rights Law Framework Documentation on GitHub
+title: Human Rights Law Framework Document Repository
 repo: justin-napolitano/human-rights-law-framework
 githubUrl: https://github.com/justin-napolitano/human-rights-law-framework
 generatedAt: '2025-11-24T21:35:11.490Z'
 source: github-auto
 summary: >-
-  Explore a comprehensive human rights law framework documented in a Word file,
-  with plans for future enhancements and accessibility.
+  Explore a comprehensive human rights law framework in a Word document,
+  suitable for legal analysis and academic reference.
 tags:
   - human rights
   - legal analysis
   - Microsoft Word
   - document repository
   - framework documentation
+  - framework
 seoPrimaryKeyword: human rights law framework
 seoSecondaryKeywords:
   - legal framework document
   - Word document repository
   - human rights analysis
-  - future work roadmap
-  - document accessibility
+  - academic reference materials
 seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
