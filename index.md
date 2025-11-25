@@ -1,33 +1,43 @@
 ---
 slug: github-human-rights-law-framework
-title: Human Rights Law Framework Repository with Structured DOCX Document
+title: Technical Overview of Human Rights Law Framework Repository
 repo: justin-napolitano/human-rights-law-framework
 githubUrl: https://github.com/justin-napolitano/human-rights-law-framework
 generatedAt: '2025-11-23T09:08:27.204509Z'
 source: github-auto
 summary: >-
-  Centralized repository hosting a structured DOCX containing a human rights law framework for legal
-  analysis and reference.
+  Explore the structure and purpose of a centralized human rights law framework
+  document in this repository.
 tags:
   - human-rights
   - legal-framework
   - docx
   - document-management
   - law-research
+  - human rights law
+  - document management
+  - legal frameworks
+  - content repository
+  - version control
 seoPrimaryKeyword: human rights law framework
 seoSecondaryKeywords:
-  - docx document
-  - legal framework
-  - document repository
+  - legal analysis tools
+  - document processing
+  - content organization
+  - framework consolidation
+  - version control challenges
 seoOptimized: true
 topicFamily: latex
 topicFamilyConfidence: 0.85
 topicFamilyNotes: >-
-  The repository focuses on a structured DOCX legal framework document, emphasizing document
-  structure, metadata, and challenges related to version control and formatting. Among the available
-  topic families, 'latex' covers professional document preparation and build automation for
-  documents, making it the closest match because the post centers around document structuring and
+  The repository focuses on a structured DOCX legal framework document,
+  emphasizing document structure, metadata, and challenges related to version
+  control and formatting. Among the available topic families, 'latex' covers
+  professional document preparation and build automation for documents, making
+  it the closest match because the post centers around document structuring and
   management rather than software development, automation, or data science.
+kind: project
+id: github-human-rights-law-framework
 ---
 
 # Human Rights Law Framework Repository: Technical Overview and Context
